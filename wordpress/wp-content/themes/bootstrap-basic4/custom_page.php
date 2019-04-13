@@ -19,11 +19,11 @@
                     </div>
                     <div class="form-group">
                         <label for="startdate">Start date</label>
-                        <input type="text" class="form-control" id="start_date" name="start_date" placeholder="Enter start date" value="2016-01-01">
+                        <input type="text" class="form-control" id="startdate" name="start_date" placeholder="Enter start date" value="2016-01-01">
                     </div>
                     <div class="form-group">
                         <label for="startdate">End date</label>
-                        <input type="text" class="form-control" id="end_date" name="end_date" placeholder="Enter end date" value="2016-01-07">
+                        <input type="text" class="form-control" id="enddate" name="end_date" placeholder="Enter end date" value="2016-01-07">
                     </div>
                     <button id="submit" type="submit" class="btn btn-primary">Randomize!</button>
                 </form>
